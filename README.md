@@ -23,10 +23,12 @@ This repository includes a sample file named dataset.csv for reference.
 You can replace or update it with your own data following the same column structure.
 
  **Example structure of** dataset.csv
+ 
 **plate_number	classify	category	description	language**
   rehmat20	    Reject	     C	     Rehmat is an Arabic word meaning mercy and is a significant religious term in Islam, often referring to the mercy of God.	Arabic
 abc123	        Accept	     A	     ABC123 is a standard alphanumeric license plate commonly seen on passenger vehicles.	English
 moto786	       Accept	     B	     A plate used for motorcycles under regional category B.	English
+
  **How to Use**
 
 Open the Databricks notebook included in this repository.
