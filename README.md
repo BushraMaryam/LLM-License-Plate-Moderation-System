@@ -115,7 +115,7 @@ Open `notebooks/VehicleLicensePlateOptimalCaseV2.ipynb` and run all cells.
 
 ## Related
 
-**Evaluation repo**: [`llm-license-plate-evaluation`](https://github.com/bushramaryam/llm-license-plate-evaluation) — NLI contradiction detection, bias analysis, and visual evaluation of the classification results produced by this pipeline.
+**Evaluation repo**: [`llm-license-plate-evaluation`](https://github.com/BushraMaryam/LLM-License-Plate-Evaluation-Framework) — NLI contradiction detection, bias analysis, and visual evaluation of the classification results produced by this pipeline.
 
 ---
 
