@@ -122,4 +122,4 @@ Open `notebooks/VehicleLicensePlateOptimalCaseV2.ipynb` and run all cells.
 ## Author
 
 **Bushra Maryam** — AI & Backend Engineer  
-[LinkedIn](https://www.linkedin.com/in/bushramaryam) · [GitHub](https://github.com/bushramaryam) · [Portfolio](https://bushramaryam.github.io)
+[LinkedIn](https://www.linkedin.com/in/bushra-maryam/) · [GitHub](https://github.com/bushramaryam) · [Portfolio](https://bushramaryam.github.io)
